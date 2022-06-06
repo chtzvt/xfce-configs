@@ -1,0 +1,27 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/charlton/Desktop/notify_led.sh]
+row=5
+col=0
+
+[39db9d52-185e-489c-8ce8-da655b0ac248]
+row=4
+col=0
+
+[Floppy Disk]
+row=3
+col=0
+
+[Trash]
+row=0
+col=0
+
+[/]
+row=1
+col=0
+
+[/home/charlton]
+row=2
+col=0
+
