@@ -168,6 +168,7 @@
     </property>
     <property name="plugin-5" type="string" value="statusnotifier">
       <property name="known-items" type="array">
+        <value type="string" value="1Password1"/>
         <value type="string" value="Proton Mail Bridge"/>
         <value type="string" value="dropbox-client-2890"/>
         <value type="string" value="blueman"/>
